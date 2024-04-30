@@ -1,0 +1,136 @@
+body{
+    background-color: rgb(46, 29, 29);
+}
+.eventsUpComing{
+    background-color: rgb(235, 224, 205);
+    width: 200px;
+    height: 500px;
+    border: 2px solid black;
+    color:white;
+    font-size: larger;
+    cursor: pointer;
+    margin-left: 1%;
+    box-shadow: 5px 5px 7px 7px black;
+    
+}
+.innereventsUpComing{
+    background-color: rgb(98, 156, 71);
+    width: 170px;
+    height: auto;
+    border: 7px solid black;
+    color: rgb(0, 0, 0);
+    font-family: "Copperplate", fantasy;
+    font-size: 100%;
+    cursor: pointer;
+    margin-left: 5%;
+    margin-top: 5%;
+    
+}
+.innerEventsView{
+    background-color: rgb(160, 167, 207);
+    width: 450px;
+    height: 300px;
+    border: 7px solid black;
+    color:rgb(0, 0, 0);
+    justify-content: center;
+    font-size: 130%;
+    font-family: "Copperplate", fantasy;
+    cursor: pointer;
+    
+    margin-left: 14%;
+    margin-top: 7%;
+}
+
+.makeOwnEvents{
+    background-color: green;
+    border: 2px solid black;
+    height: 90px;
+    width: 140px;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    color:rgb(0, 0, 0);
+    font-family: "Copperplate", fantasy;
+    cursor: pointer;
+    box-shadow: 5px 5px black;
+    margin-top: 3%;
+    margin-left: 53%;
+}
+.createEventInputText{
+    background-color: rgb(5, 75, 5);
+    border: 2px solid black;
+    font-size: larger;
+    flex-direction: row;
+    height: 50px;
+    width: 250px;
+    margin-left: 50%;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 5px black;
+    color: white;
+}
+.comments{
+    background-color: rgb(160, 167, 207);
+    border: 8px solid rgb(61, 61, 61);
+    width: 450px;
+    height: 255px;
+    flex-direction: row;
+    text-align: center;
+    font-size: larger;
+    color: white;
+    font-family: "Copperplate", fantasy;
+    cursor: pointer;
+    margin-top: 3%;
+    margin-left: 14%;
+
+}
+.controlButton1{
+    height: 30px;
+    width: 30px;
+    border: 3px solid black;
+    border-radius: 100px;
+    background-color: rgb(59, 57, 57);
+    margin-left: 5%;
+    flex-direction: row;
+    box-shadow: 4px 4px 4px  black;
+
+}
+.controlButton2{
+    height: 30px;
+    width: 30px;
+    border: 3px solid black;
+    border-radius: 100px;
+    background-color: rgb(177, 50, 50);
+    margin-left: 35%;
+    margin-top: -17.8%;
+    flex-direction: row;
+    box-shadow: 4px 4px 4px black;
+
+}
+h1{
+    background-color: rgb(24, 114, 84);
+    height: auto;
+    width: 250px;
+    margin-left: 50%;
+    text-align: center;
+    border-radius: 150px;
+    border-style: groove;
+    font-family: "Copperplate", fantasy;
+    text-shadow: 3px 3px black;
+    color:white;
+
+}
+h2 {
+    background-color: rgb(24, 114, 84);
+    height: auto;
+    width: 200px;
+    border-radius: 150px;
+    border-style: ridge;
+    margin-top: -2%;
+    margin-left: 1%;
+    text-align: center;
+    font-family: "Copperplate", fantasy;
+    color: white;
+    text-shadow: 3px 3px black;
+}

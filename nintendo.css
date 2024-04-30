@@ -1,0 +1,131 @@
+.eventsView{
+    background-color: rgb(53, 50, 50);
+    width: 650px;
+    height: 370px;
+    border: 2px solid black;
+    border-radius: 10%;
+    color:white;
+    text-align: center;
+    font-size: larger;
+    cursor: pointer;
+    margin-left: 40%;
+    box-shadow: 6px 2px 2px black;
+}
+.commentsOuter{
+    background-color: rgb(119, 171, 192);
+    width: 650px;
+    height: 320px;
+    border-radius: 10%;
+    border: 2px solid black;
+    color:white;
+    text-align: center;
+    font-size: larger;
+    margin-left: 40%;
+    margin-top: -0.8%;
+    box-shadow: 4px 2px 2px 2px black;
+}
+
+.buttonUp{
+    background-color: rgb(90, 128, 143);
+    width: 15px;
+    height: 25px;
+    margin-left: 42%;
+    margin-top: -12%;
+    box-shadow: 2px 2px  black;
+}
+.buttonDown{
+    background-color: rgb(90, 128, 143);
+    width: 15px;
+    height: 25px;
+    margin-left: 42%;
+    margin-top: -0.4%;
+    box-shadow: 2px 2px black;
+    
+}
+.buttonSide1{
+    background-color: rgb(90, 128, 143);
+    width: 25px;
+    height: 15px;
+    margin-left: 41%;
+    margin-top: -1.5%;
+
+    
+}
+.buttonSide2{
+    background-color: rgb(90, 128, 143);
+    width: 25px;
+    height: 15px;
+    margin-left: 42.4%;
+    margin-top: -0.8%;
+    
+}
+
+.buttonX{
+    background-color: rgb(90, 128, 143);
+    width: 22px;
+    height: 22px;
+    border-radius: 21px;
+    margin-left: 71.7%;
+    margin-top: -1.7%;
+    color: white;
+    text-align: center;
+    box-shadow: 2px 2px 2px black;
+}
+.buttonB{
+    background-color: rgb(90, 128, 143);
+    width: 22px;
+    height: 22px;
+    border-radius: 21px;
+    margin-left: 71.7%;
+    margin-top: 1.4%;
+    color: white;
+    text-align: center;
+    box-shadow: 2px 2px 2px black;
+}
+
+.buttonA{
+    background-color: rgb(90, 128, 143);
+    width: 22px;
+    height: 22px;
+    border-radius: 21px;
+    margin-left: 72.9%;
+    margin-top: -2.4%;
+    color: white;
+    text-align: center;
+    box-shadow: 2px 2px 2px black;
+}
+.buttonY{
+    background-color: rgb(90, 128, 143);
+    width: 22px;
+    height: 22px;
+    border-radius: 21px;
+    margin-left: 70.5%;
+    margin-top: -1.2%;
+    color: white;
+    text-align: center;
+    box-shadow: 2px 2px 2px black;
+}
+
+.tinyButton1{
+    background-color: rgb(90, 128, 143);
+    width: 12px;
+    height: 12px;
+    border-radius: 12px;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-family: "Copperplate", fantasy;
+    font-weight: bold;
+    font-size: x-small;
+    margin-top: 11%;
+    margin-left: 71%;
+    box-shadow: 1px 1px 1px black;
+    cursor: pointer;
+}
+
+.line{
+    width: 600px;
+    border: 10px solid black;
+    margin-left: 41%;
+    margin-top: -8.5%;
+    border-radius: 70px;
+}
